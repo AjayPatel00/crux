@@ -1,0 +1,1 @@
+test by running "python3 entity_search.py --search 'company abc holdings'"
